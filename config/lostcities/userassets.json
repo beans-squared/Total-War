@@ -1,0 +1,12 @@
+[
+  {
+    "type": "condition",
+    "name": "chestloot",
+    "values": [
+      {
+        "factor": 20,
+        "value": "totalwar:cityloot"
+      }
+    ]
+  }
+]

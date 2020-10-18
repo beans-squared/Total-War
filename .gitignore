@@ -22,6 +22,8 @@ usercache.json
 usernamecache.json
 patchouli_data.json
 .project
+config.json
+manifest.json
 
 .log*
 
@@ -29,3 +31,4 @@ config/InvTweaks.cfg
 config/jeiworldSettings.cfg
 config/InvTweaksRules.txt
 config/InvTweaksTree.txt
+config/splash.properties

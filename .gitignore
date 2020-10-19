@@ -25,6 +25,7 @@ patchouli_data.json
 .project
 config.json
 manifest.json
+worldSettings.cfg
 
 .log*
 

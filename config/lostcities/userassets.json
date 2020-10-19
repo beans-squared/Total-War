@@ -1,0 +1,12 @@
+[
+  {
+    "type": "condition",
+    "name": "chestloot",
+    "values": [
+      {
+        "factor": 10,
+        "value": "totalwar:chests/standard"
+      }
+    ]
+  }
+]
